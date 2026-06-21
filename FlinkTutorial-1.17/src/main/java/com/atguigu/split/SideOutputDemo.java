@@ -14,8 +14,8 @@ import org.apache.flink.util.OutputTag;
 /**
  * TODO 分流： 奇数、偶数拆分成不同流
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class SideOutputDemo {
     public static void main(String[] args) throws Exception {

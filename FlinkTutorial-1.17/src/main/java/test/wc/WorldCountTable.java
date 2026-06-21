@@ -12,6 +12,9 @@ import static org.apache.flink.table.api.Expressions.$;
 /**
  * 使用 Table API 实现 WordCount
  * 思路：DataStream 读取+切分 → 转 Table → Table API 分组聚合 → 转流输出
+ *
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class WorldCountTable {
     public static void main(String[] args) throws Exception {

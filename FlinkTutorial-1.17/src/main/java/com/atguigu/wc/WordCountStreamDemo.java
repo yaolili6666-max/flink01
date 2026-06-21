@@ -12,8 +12,8 @@ import org.apache.flink.util.Collector;
 /**
  * TODO DataStream实现Wordcount：读文件（有界流）
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class WordCountStreamDemo {
     public static void main(String[] args) throws Exception {

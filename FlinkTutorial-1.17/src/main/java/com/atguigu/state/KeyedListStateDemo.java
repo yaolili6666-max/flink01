@@ -21,8 +21,8 @@ import java.util.List;
 /**
  * TODO 针对每种传感器输出最高的3个水位值
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class KeyedListStateDemo {
     public static void main(String[] args) throws Exception {

@@ -11,8 +11,8 @@ import org.apache.flink.util.Collector;
 /**
  * TODO 如果输入的数据是sensor_1，只打印vc；如果输入的数据是sensor_2，既打印ts又打印vc
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class FlatmapDemo {
     public static void main(String[] args) throws Exception {

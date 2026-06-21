@@ -13,8 +13,8 @@ import org.apache.flink.util.Collector;
  * DataSet API 实现 WordCount：批处理方式读取文件
  * 注意：DataSet API 在 Flink 1.17 中已不推荐使用，建议使用 DataStream API 的 BATCH 模式
  *
- * @author test
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class WordCountBatch {
     public static void main(String[] args) throws Exception {

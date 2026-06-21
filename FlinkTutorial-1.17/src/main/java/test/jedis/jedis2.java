@@ -6,6 +6,9 @@ import redis.clients.jedis.JedisPoolConfig;
 
 /**
  * 使用Jedis连接池操作Redis的示例
+ *
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class jedis2 {
     

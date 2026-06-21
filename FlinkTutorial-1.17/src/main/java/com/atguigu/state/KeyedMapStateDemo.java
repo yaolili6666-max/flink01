@@ -22,8 +22,8 @@ import java.util.Map;
 /**
  * TODO 统计每种传感器每种水位值出现的次数
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class KeyedMapStateDemo {
     public static void main(String[] args) throws Exception {

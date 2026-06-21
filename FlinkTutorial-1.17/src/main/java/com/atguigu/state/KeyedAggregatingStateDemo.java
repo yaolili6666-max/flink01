@@ -22,8 +22,8 @@ import java.time.Duration;
 /**
  * TODO 计算每种传感器的平均水位
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class KeyedAggregatingStateDemo {
     public static void main(String[] args) throws Exception {

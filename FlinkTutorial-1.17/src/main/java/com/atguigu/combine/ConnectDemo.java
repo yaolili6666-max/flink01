@@ -10,8 +10,8 @@ import org.apache.flink.streaming.api.functions.co.CoMapFunction;
 /**
  * TODO
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class ConnectDemo {
     public static void main(String[] args) throws Exception {

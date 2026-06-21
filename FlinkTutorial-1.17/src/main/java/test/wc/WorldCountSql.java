@@ -6,6 +6,9 @@ import org.apache.flink.table.api.bridge.java.StreamTableEnvironment;
 /**
  * 使用 Flink SQL 实现 WordCount
  * 与 WorldCountTable（Table API）的区别：这里全部用 SQL 字符串完成建表和查询
+ *
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class WorldCountSql {
     public static void main(String[] args) throws Exception {

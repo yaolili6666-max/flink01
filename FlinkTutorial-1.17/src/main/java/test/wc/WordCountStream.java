@@ -14,8 +14,8 @@ import org.apache.flink.util.Collector;
  * nc -lk hadoop102 7777
  * 然后提交 Flink 作业，在 netcat 端输入单词即可看到实时统计结果
  *
- * @author test
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class WordCountStream {
     public static void main(String[] args) throws Exception {

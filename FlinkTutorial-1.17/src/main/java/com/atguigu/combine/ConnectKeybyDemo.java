@@ -17,8 +17,8 @@ import java.util.Map;
 /**
  * TODO 连接两条流，输出能根据id匹配上的数据（类似inner join效果）
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class ConnectKeybyDemo {
     public static void main(String[] args) throws Exception {

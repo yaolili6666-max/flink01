@@ -17,8 +17,8 @@ import java.time.Duration;
 /**
  * TODO 检测每种传感器的水位值，如果连续的两个水位值超过10，就输出报警
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class KeyedValueStateDemo {
     public static void main(String[] args) throws Exception {

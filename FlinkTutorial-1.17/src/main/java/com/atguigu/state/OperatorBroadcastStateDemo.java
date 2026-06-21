@@ -19,8 +19,8 @@ import org.apache.flink.util.Collector;
 /**
  * TODO 水位超过指定的阈值发送告警，阈值可以动态修改
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class OperatorBroadcastStateDemo {
     public static void main(String[] args) throws Exception {

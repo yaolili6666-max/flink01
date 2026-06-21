@@ -4,6 +4,11 @@ import redis.clients.jedis.Jedis;
 
 import java.util.Set;
 
+/**
+ * @author 黑大帅
+ * @create 2026/06/21
+ */
+
 public class jedis1 {
     /**
      * 主方法：连接Redis并获取各种类型的数据

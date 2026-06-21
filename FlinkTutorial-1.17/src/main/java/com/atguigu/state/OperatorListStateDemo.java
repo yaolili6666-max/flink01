@@ -12,8 +12,8 @@ import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 /**
  * TODO 在map算子中计算数据的个数
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class OperatorListStateDemo {
     public static void main(String[] args) throws Exception {

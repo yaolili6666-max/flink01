@@ -12,8 +12,8 @@ import org.apache.flink.util.Collector;
 /**
  * TODO DataSet API 实现 wordcount（不推荐）
  *
- * @author cjp
- * @version 1.0
+ * @author 黑大帅
+ * @create 2026/06/21
  */
 public class WordCountBatchDemo {
     public static void main(String[] args) throws Exception {
